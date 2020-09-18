@@ -11,7 +11,7 @@
 This R package is a DBI interface for the Yandex Clickhouse database. It provides basic dplyr support by auto-generating SQL-commands using dbplyr and is based on the official [C++ Clickhouse Client](https://github.com/artpaul/clickhouse-cpp).
 
 To cite this library, please use the BibTeX entry provided in **inst/CITATION**.
-
+test
 
 ## Installation
 This package is available on CRAN, and thus installable by running:
